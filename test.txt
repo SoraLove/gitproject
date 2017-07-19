@@ -1,4 +1,5 @@
 test  sssssss
 cgit commit -m "wrote a readme file"hange the neitong
 sgit reset --hard 3628164dfhhjkklss
-zaicizuochuxiugai
+zgit reset --hard 3628164aicizuochuxiugai
+zaicixiugai
